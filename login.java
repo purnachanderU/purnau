@@ -1,7 +1,7 @@
 public class
 {
 int add
-int x=10;
-int y=15;
+int x=25;
+int y=30;
 int add=x+y;
 }
